@@ -1,4 +1,4 @@
-export let assistantId = "asst_ma8pYhkAsYRrYVVUNCpwVAW0"; // set your assistant ID here
+export let assistantId = "YOUR_API_KEY"; // set your assistant ID here
 
 if (assistantId === "") {
   assistantId = process.env.OPENAI_ASSISTANT_ID;
