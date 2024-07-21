@@ -1,4 +1,4 @@
-# Corning AI Challenge
+# 2024 Corning AI Challenge Team 777
 ## Corning HR Helper ChatBot
 
 ### Setup
