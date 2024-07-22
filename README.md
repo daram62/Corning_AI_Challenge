@@ -1,6 +1,9 @@
 # 2024 Corning AI Challenge Team 777
 ## Corning HR Helper ChatBot
 
+### Demo Video 
+https://youtu.be/6NzlLT4RVW4?si=5vDgNtFHDVC1NMit
+
 ### Setup
 
 ### 1. Set your [OpenAI API key](https://platform.openai.com/api-keys)
