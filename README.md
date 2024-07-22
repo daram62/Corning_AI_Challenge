@@ -1,5 +1,7 @@
 # 2024 Corning AI Challenge Team 777
 ## Corning HR Helper ChatBot
+Develop an advanced system that leverages Large Language Models (LLM) to analyze large-scale survey documents.
+It will feature a user-friendly chatbot interface, enabling users to interact with the LLM to obtain specific information efficiently.
 
 ### Demo Video 
 https://youtu.be/6NzlLT4RVW4?si=5vDgNtFHDVC1NMit
