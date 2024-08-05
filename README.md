@@ -5,7 +5,7 @@ It will feature a user-friendly chatbot interface, enabling users to interact wi
 
 ### Demo Video 
 https://youtu.be/6NzlLT4RVW4?si=5vDgNtFHDVC1NMit
- 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/14a5ff10-ce92-47d1-9efd-03089f250e6c">
 
 ### Setup
 
